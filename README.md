@@ -1,4 +1,4 @@
-For the first use, please make sure Python3 and Selenium installed and the following requirement
+For the first use, please make sure Python3 and Selenium installed and do the following requirement install
 ```
 pip3 install webdriver_manager
 ```
